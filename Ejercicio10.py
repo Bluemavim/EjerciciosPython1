@@ -8,7 +8,7 @@
 edad = int(input("Por favor, ingrese la edad: \n"))
 
 if edad <= 12:
-    print("Pertenece a la categoría MENOR")
+    print("Pertenece a la categoría MENOR.")
 elif edad <= 18:
     print("Pertenece a la categoría CADETE.")
 elif edad <= 26:

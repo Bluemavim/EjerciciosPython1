@@ -21,10 +21,10 @@ vocalu = text.count("u")
 
 
 #Imprimo resultados
-print("La cantidad de veces que aparece la letra A es", vocala, ".")
-print("La cantidad de veces que aparece la letra E es", vocale, ".")
-print("La cantidad de veces que aparece la letra I es", vocali, ".")
-print("La cantidad de veces que aparece la letra O es", vocalo, ".")
-print("La cantidad de veces que aparece la letra U es", vocalu, ".")
+print("La cantidad de veces que aparece la letra A es ", vocala, ".")
+print("La cantidad de veces que aparece la letra E es ", vocale, ".")
+print("La cantidad de veces que aparece la letra I es ", vocali, ".")
+print("La cantidad de veces que aparece la letra O es ", vocalo, ".")
+print("La cantidad de veces que aparece la letra U es ", vocalu, ".")
 print("La cantidad de palabras es: ", cantpalabras, ".")
 print("La palabra más larga es: ", pal_mas_larga, ".")

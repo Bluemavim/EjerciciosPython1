@@ -5,7 +5,7 @@
 
 #Ingreso los números
 
-a = int(input("Por favor, ingrese el número 1 \n"))
+a = int(input("Por favor, ingrese el primer número: \n"))
 quintap = a / 5
 resto = a % 5
 septimaquintap = quintap / 5

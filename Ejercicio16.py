@@ -20,8 +20,8 @@ while sueldo != 0:
     sueldo = float(input())
 
 print("**************************************")
-print(catc , " empleados ganan menos de $2.000")
-print(catd , " empleados ganan $2.000 o más pero menos de $3.000")
-print(cate , " empleados ganan $3.000 o más pero menos de $5.000")
-print(catf , " empleados ganan $5.000 o más")
+print(catc , " empleados ganan menos de $2.000.")
+print(catd , " empleados ganan $2.000 o más pero menos de $3.000.")
+print(cate , " empleados ganan $3.000 o más pero menos de $5.000.")
+print(catf , " empleados ganan $5.000 o más.")
    
