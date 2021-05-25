@@ -1,0 +1,1 @@
+oracion = "Si tu viejo es zapatero, sarpale la lata."
